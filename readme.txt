@@ -9,7 +9,6 @@ games in progress: Craps and Baccarat
 games i am considering: Hi/Low, Number Guess, and a Slot Machine
 
 
-
 Run the program on a linux based system with the following commands:
 
 compile first with:
