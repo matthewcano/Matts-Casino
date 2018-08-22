@@ -2,7 +2,7 @@ This is a personal hobby project i started in 2017.
 
 I had a goal of 5 games, 3 are complete, after the 5 are complete I have the deisre to add more.
 
-operational games: Poker (5 card stud), Roulette, and Black Jack
+opperational games: Poker (5 card stud), Roulette, and Black Jack
 
 games in progress: Craps and Baccarat
 
